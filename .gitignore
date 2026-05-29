@@ -1,0 +1,43 @@
+# Bulk raw downloads
+data/raw/
+data/cache/
+*.parquet
+
+# Tankerkönig clone
+tankerkoenig-data/
+
+# Build artefacts
+community/*.nb.bak
+community/*.aux
+community/*.log
+
+# Python venv (if anyone uses the gpt-image-2 script locally)
+.venv/
+__pycache__/
+*.pyc
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# Notebooks autosave
+*.~nb
+
+# Superseded / post-unused animation artefacts (regenerate via the scripts if needed)
+docs/images/paderborn_animation.gif
+docs/images/paderborn_snapshot.png
+docs/images/germany_frames/
+docs/images/germany_kriged_frames/
+
+# Local editor backup copies of the notebook
+*copy*.nb
+*copy.nb
+
+# Large derived archive table (regenerate with wolfram/ingest_gustavz_archive.wls)
+data/tk_archive_2019_11_daily.csv
+
+# Underlying price datasets — NOT redistributed (licensed to their providers).
+# Regenerate locally with the fetch_*/ingest_* scripts.
+data/
