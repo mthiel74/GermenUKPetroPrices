@@ -99,7 +99,7 @@ Options[animCell] = {"FrameStep" -> 1, "Colors" -> 256};
 cells = {
   titleCell["German + British Petrol Prices: An Empirical Study"],
 
-  textCell["Marco Thiel, May 2026.  Source code: https://github.com/mthiel74/GermenUKPetroPrices  (the underlying price datasets are not redistributed -- see section 17 for the original sources and their licences)."],
+  textCell["Marco Thiel, May 2026.  Source code: https://github.com/mthiel74/GermanUKPetroPrices  (the underlying price datasets are not redistributed -- see section 17 for the original sources and their licences)."],
 
   (* ---- Hook: country-wide kriged daily diesel surface ----
      Built from PNG frames into a baked AnimatedImage (the only pattern
@@ -880,7 +880,7 @@ cells = {
     "Distributed via the gustavz/tankerkoenig_dataset mirror under " <>
     "CC BY-NC-SA 4.0.\""],
   textCell[
-    "Source code at https://github.com/mthiel74/GermenUKPetroPrices, " <>
+    "Source code at https://github.com/mthiel74/GermanUKPetroPrices, " <>
     "MIT-licensed, full Wolfram Language pipeline (data fetch, " <>
     "ingest, kriging, DiD, animations, notebook builder). The notebook " <>
     "itself, insofar as it incorporates the November-2019 archive data " <>

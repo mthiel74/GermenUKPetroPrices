@@ -29,7 +29,7 @@ jede Visualisierung in dem Artikel existiert nur, weil Sie diese
 Daten zur Verfügung stellen.
 
 Link zum Artikel: **[bitte einfügen]**
-Repository und Code: https://github.com/mthiel74/GermenUKPetroPrices
+Repository und Code: https://github.com/mthiel74/GermanUKPetroPrices
 
 Ein Hinweis in eigener Sache: bei einem unbeobachteten automatisierten
 Skript habe ich Mitte Mai für ein paar Stunden die 1-Anfrage-pro-Minute-
@@ -80,7 +80,7 @@ Almost every figure in the post exists because you make this data
 available.
 
 Link to the post: **[please insert]**
-Code + repository: https://github.com/mthiel74/GermenUKPetroPrices
+Code + repository: https://github.com/mthiel74/GermanUKPetroPrices
 
 A confession: in mid-May an unattended automated script of mine
 exceeded your "one request per minute" guidance for a couple of hours
