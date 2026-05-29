@@ -785,7 +785,7 @@ cells = {
     "as Brent drifts through the month. Data: Tankerkoenig / MTS-K / " <>
     "Bundeskartellamt via the gustavz/tankerkoenig_dataset mirror " <>
     "(CC BY-NC-SA 4.0).",
-    "Colors" -> 128],
+    "Colors" -> 96],
 
   (* ============================================================ *)
   secCell["15. Limitations and further work"],
